@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepellsd
 - 👀 I’m interested in iron my cat and python
-- 🌱 I’m currently learning FastApi and some ML 
+- 🌱 I’m currently learning Django and some ML 
 - 📫 How to reach me telegram @comsomolec email serafimdyachenko@gmail.com 
 
 <!---
