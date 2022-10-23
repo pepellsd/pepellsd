@@ -3,8 +3,8 @@
 
 - 🌚 I’m Serafim Dyachenko
 - 👀 I’m interested in iron my cat and python
-- 🌱 I’m currently learning everything and some ML 
-- 📫 How to reach me telegram @comsomolec and email serafimdyachenko@gmail.com 
+- 🌱 I’m currently learning everything and something 
+- 📫 How to reach me by  telegram @comsomolec or by email serafimdyachenko@gmail.com 
 
 
 ### Technologies
